@@ -67,7 +67,7 @@ Para cada modelo y cultivo, se analizaron las métricas:
 
 El siguiente diagrama representa el flujo completo del trabajo realizado, desde la recopilación y procesamiento de datos hasta la evaluación y visualización de los resultados.
 
-![Diagrama de Flujo](./img/diagrama_flujo.png)
+<img src="./img/Diagrama_flujo.png" width="200" height="300">
 
 ---
 
