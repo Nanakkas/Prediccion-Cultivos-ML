@@ -1,6 +1,6 @@
 ## TFG - Entrenamiento de Modelos de Predicción
 
-![Logo UV](./img/logo_uv.png)
+<img src="./img/logo_uv.png" width="200" height="200">
 
 ---
 
